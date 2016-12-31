@@ -1,4 +1,4 @@
-/* Copyright 2016 Marc Volker Dickmann */
+/* Copyright 2016 - 2017 Marc Volker Dickmann */
 #define _GNU_SOURCE
 #include <stdio.h>
 #include <stdlib.h>
@@ -147,7 +147,7 @@ int main (int argc, char *argv[])
 {
 	emu_cpu mycpu;
 	
-	printf ("Emulator v. 0.0.1 A (C) 2016 Marc Volker Dickmann\n\n");
+	printf ("Emulator v. 0.0.1 A (C) 2016 - 2017 Marc Volker Dickmann\n\n");
 	
 	if (argc == 2)
 	{
